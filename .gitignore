@@ -1,0 +1,15 @@
+# Ignorar diretórios
+datasets/
+notebooks/
+spark-3.1.2-bin-hadoop2.7/
+
+
+# Ignorar arquivos específicos
+ngrok-stable-linux-amd64.zip
+spark-3.1.2-bin-hadoop2.7.tgz
+ngrok
+.env
+get
+.gitignore:Zone.Identifier
+ConfiguracoesIniciais.ipynb:Zone.Identifier
+PySpark.ipynb:Zone.Identifier
